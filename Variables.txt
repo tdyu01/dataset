@@ -1,0 +1,7 @@
+Variables en Orden:
+Demo1:Asiste, Estudia, Repitente, Aprueba.
+Demo2:Activo, Físico, Comer, Gordo.
+Demo3:Activo, Depresión, Autoestima, Suicidio.
+Demo4:Salud, Comida, Gordo, Infarto.
+Demo5:Activo, Físico, Comer, Gordo, Infarto.
+Demo6:Asiste, Estudia, Repitente, Conocimiento, Interés, Participa, Tiemp, Aprueba.
